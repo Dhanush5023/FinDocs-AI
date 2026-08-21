@@ -143,7 +143,7 @@ Open `http://localhost:8000/docs` in your browser to test endpoints via Swagger 
 ### Option B: Local Python Virtual Environment
 ```bash
 # 1. Clone & create venv
-git clone https://github.com/your-username/FinDocs-AI.git
+git clone https://github.com/Dhanush5023/FinDocs-AI.git
 cd FinDocs-AI
 python -m venv venv
 source venv/bin/activate  # On Windows: .\venv\Scripts\activate
